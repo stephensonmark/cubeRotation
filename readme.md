@@ -1,16 +1,2 @@
-# Three.js Journey
-
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
-
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+Cube Rotation in WebGL using Three.JS including GSAP Alternative.
+![Screenshot 2024-10-11 185230](https://github.com/user-attachments/assets/f858257e-b136-487a-bf4b-0b359199627f)
